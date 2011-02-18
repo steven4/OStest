@@ -1,0 +1,74 @@
+body{
+background-color: #B5D8FF;
+height:100%;
+margin: 0;
+padding: 0;
+border: none;
+text-align: center;
+}
+
+hr{
+height:10px;
+background:#000000;
+}
+
+.form_text{
+width: 300px;
+}
+
+.form_text_area{
+width: 300px;
+height: 300px;
+}
+
+.form_left
+{
+text-align: left;	
+}
+
+#main_content{
+background-color:#FFFFFF;
+margin: 5% 20%;
+}
+
+button{
+background-color: #FFFFFF;
+border:0px solid #FFFFFF; 
+
+}
+
+#td_button{
+float: right;
+}
+
+#heading{
+font-family: Aller Display, Helvetica, sans-serif; 
+font-size: 43px;
+color: #9c96d6;
+margin: 5% 5% 0% 10%;
+
+}
+
+.description{
+height: 10px;
+}
+.message_description{
+height: 300px;
+}
+.description_button_tag
+{
+height: 50px;	
+}
+
+
+table{
+font-family: Aller Light, Helvetica, sans-serif; 
+font-size: 18px 
+}
+
+#submit_button{
+font-family: Aller Display, Helvetica, sans-serif; 
+font-size: 13px 
+}
+
+
